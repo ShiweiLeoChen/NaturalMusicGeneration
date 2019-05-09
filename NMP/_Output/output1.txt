@@ -1,0 +1,15 @@
+M:b/8
+P:A
+D|"G"G2G B2G|d2G d2G|"G"Bde d2G|"G"BAB d2B|
+"D7"A3 -A2f|"G"g^f g2b|"C"gec c2e|"G"agB "D7"e2A|"G"G3 -G'bg|
+"G7"fed ^cde|"G"d2B G^CB|"Am"c2B c2d|"D7"A3 -A2f|"G"g2g g2f|e2d c2B|
+"Am"A2B c2d|"Am"eag e2f|"E7"e2B Bcd|e2d c2B|
+"Am"AGA c2A|E3 -E2G|"Am"EAA A2B|"Am"ABA "E7"GED|"Em"E2F G2A|
+e2e e2d|"C"e3 -e2c|"G"ded "D7"c2d|"G"G6||
+"G"G6|"C"G2A c2d|"C"e3 "G7"G2A|"C"e3 -e2c|e2c e3|"A7"A2B _B2A|"Dm"A6||
+"G7"G3 -G2A|B2A e3|"G""^dB,3 B2A|6
+"D7"F2A d2e|"G"d2B d2e|"G"d2B "D7"c2B|"G"G2G G2B|
+G2B d2e|"G"dBG G^FG|"Am"cBc A2G|"D7"FGA ABc|
+"G"d3 d3|"G"b6|"C"a2e g2^f|"C"gec "G"G2B|"C"cdc cde|"G"dBG "C"A3|"G"A2G "C"G2E|"G"D2B c2B|\
+"Am"ABA "D7"DEF|"G"G3 -G2:|
+
