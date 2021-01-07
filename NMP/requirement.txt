@@ -61,7 +61,7 @@ Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 kiwisolver==1.0.1
 latex==0.7.0
-lxml==4.3.1
+lxml==4.6.2
 Mako==1.0.9
 Markdown==3.1
 MarkupSafe==1.1.0
