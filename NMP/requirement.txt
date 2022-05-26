@@ -119,7 +119,7 @@ sklearn==0.0
 SQLAlchemy==1.2.14
 tempdir==0.7.1
 tensorboard==1.13.1
-tensorflow==1.13.1
+tensorflow==2.7.2
 tensorflow-estimator==1.13.0
 term==2.3
 termcolor==1.1.0
